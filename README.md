@@ -13,8 +13,7 @@ disease or not.
 
 
 [You can reach the application here] 
-[https://thyroiddiseaseprediction.herokuapp.com/](https://thyroiddiseaseprediction.herokuapp.com/)
-
+https://plucky-rarity-384604.uc.r.appspot.com/
 
 
 # Steps to involved in model building
@@ -29,51 +28,10 @@ disease or not.
 - Push to Github
 - deploying
 
-# Snippets of Project
-
-1)Webapp Home page
-![img](https://i.imgur.com/TLFjxId.png)
-
 
 
 # Demo
 
-### Demo Video link: [https://youtu.be/k-hHG6r6oP4](https://youtu.be/k-hHG6r6oP4)
+### Demo Video link: https://youtu.be/2Eeaii_naKU
 
-
-
-# Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/Ganesh-Thorat-01/Thyroid-Disease-Detection
-```
-
-Go to the project directory
-
-```bash
-  cd Thyroid-Disease-Detection
-```
-
-Install dependencies
-
-```bash
-  pip install -r requirements.txt
-```
-
-Start the server
-
-```bash
-  python main.py
-```
-
-
-# Authors
-
-- [@Ganesh-Thorat-01](https://github.com/Ganesh-Thorat-01/)
-
-# Feedback
-
-If you have any feedback, please reach out to us at thorat.ganeshscoe@gmail.com
 
